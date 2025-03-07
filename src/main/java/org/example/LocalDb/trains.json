@@ -1,0 +1,25 @@
+[
+  {
+    "train": [
+      {
+        "train_id": "12",
+        "train_no": "12090",
+        "seats": [
+          [0,0,0,0,0],
+          [0,0,0,0,0],
+          [0,0,0,0,0],
+          [0,0,0,0,0],
+          [0,0,0,0,0]
+        ],
+        "stations_times": {
+            "MadhyaPradesh": "15:50:00",
+            "Nagpur": "18:50:00"
+        },
+        "station": [
+          "MadhyaPradesh",
+          "Nagpur"
+        ]
+      }
+    ]
+  }
+]
